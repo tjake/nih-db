@@ -1,4 +1,0 @@
-nih-db
-======
-
-NotInventedHere-DB
